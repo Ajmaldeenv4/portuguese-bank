@@ -1,0 +1,5 @@
+.venv/
+raw/
+bank.zip
+.ipynb_checkpoints/
+*.docx
